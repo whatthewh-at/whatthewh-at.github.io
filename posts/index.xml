@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on What The What?</title>
+    <link>http://whatthewh.at/posts/</link>
+    <description>Recent content in Posts on What The What?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Aug 2019 15:39:07 +0100</lastBuildDate>
+    
+	<atom:link href="http://whatthewh.at/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stop Making Sense</title>
+      <link>http://whatthewh.at/posts/stop-making-sense/</link>
+      <pubDate>Thu, 29 Aug 2019 15:39:07 +0100</pubDate>
+      
+      <guid>http://whatthewh.at/posts/stop-making-sense/</guid>
+      <description>Is this thing on?
+Hi there.</description>
+    </item>
+    
+  </channel>
+</rss>
